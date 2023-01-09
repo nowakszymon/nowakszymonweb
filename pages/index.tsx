@@ -41,7 +41,7 @@ const Home: NextPage = () => {
           </a>
 
           <a
-            href="https://dark.srv34006.seohost.com.pl/"
+            href="https://darkinch.com"
             className={styles.card}
           >
             <h2>DarkInch &rarr;</h2>
