@@ -15,10 +15,10 @@ const Home: NextPage = () => {
         <h1 className={styles.title}>
         👋 Cześć.
         </h1>
-        <h2>Nazywam się Szymon Nowak, 22 lata.
+        <h2>Nazywam się Szymon Nowak, 23 lata.
         </h2>
         <p className={styles.description}>
-        🏢 Buduję różne firmy oraz pomagam innym głównie za pomocą programowania.
+        🏢 Buduję różne firmy oraz pomagam innym głównie za pomocą programowania.
         </p>
 
         <div className={styles.grid}>
