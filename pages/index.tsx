@@ -15,7 +15,7 @@ const Home: NextPage = () => {
         <h1 className={styles.title}>
         👋 Cześć.
         </h1>
-        <h2>Nazywam się Szymon Nowak, 23 lata.
+        <h2>Nazywam się Szymon Nowak, 24 lata.
         </h2>
         <p className={styles.description}>
         🏢 Buduję różne firmy oraz pomagam innym głównie za pomocą programowania.
@@ -41,12 +41,12 @@ const Home: NextPage = () => {
           </a>
 
           <a
-            href="https://darkinch.com"
+            href="https://pikantpolska.pl"
             className={styles.card}
           >
-            <h2>DarkInch &rarr;</h2>
+            <h2>Pikant Polska &rarr;</h2>
             <p>
-              Rozwijam nową firmę w branży HORECA
+              Firma handlowa
             </p>
           </a>
         </div>
