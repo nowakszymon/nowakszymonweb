@@ -13,31 +13,28 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-        👋 Cześć.
+        👋 Hi.
         </h1>
-        <h2>Nazywam się Szymon Nowak, 24 lata.
+        <h2>Nice to e-meet you.
         </h2>
-        <p className={styles.description}>
-        🏢 Buduję różne firmy oraz pomagam innym głównie za pomocą programowania.
-        </p>
 
         <div className={styles.grid}>
           <a href="https://nscode.eu" className={styles.card}>
             <h2>NS Code &rarr;</h2>
-            <p>Mój Software House</p>
+            <p>Software Company</p>
           </a>
 
           <a href="#" className={styles.card}>
             <h2>TBA &rarr;</h2>
-            <p>Aplikacja SaaS</p>
+            <p>SaaS company</p>
           </a>
 
           <a
             href="https://www.bosforcharter.com/home"
             className={styles.card}
           >
-            <h2>Jachty &rarr;</h2>
-            <p>Wynajmuje 2 jachty na Chorwacji.</p>
+            <h2>Yachts &rarr;</h2>
+            <p>I do charter 2 yachts in Croatia.</p>
           </a>
 
           <a
@@ -46,7 +43,7 @@ const Home: NextPage = () => {
           >
             <h2>Pikant Polska &rarr;</h2>
             <p>
-              Firma handlowa
+              Brokerage company
             </p>
           </a>
         </div>
@@ -54,7 +51,7 @@ const Home: NextPage = () => {
 
       <footer className={styles.footer}>
   
-          Porozmawiajmy: kontakt [at] nowakszymon.pl
+          Let's talk: kontakt [at] nowakszymon.pl
         
       </footer>
     </div>
